@@ -8,7 +8,7 @@ At the time of writing, the way I intend to organize these are as git submodules
 
 Apps that are meant to be run from a CLI.
 
-- [clipboard-cli][./cli]
+- [clipboard-cli](./cli)
   - A fork of the original clipboard-clip which is used for distribution.
 - [homebrew-clipboard-cli][1]
   - A repo for publishing clipboard-cli to homebrew.
