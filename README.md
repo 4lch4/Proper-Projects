@@ -8,7 +8,7 @@ At the time of writing, the way I intend to organize these are as git submodules
 
 Apps that are meant to be run from a CLI.
 
-- [clipboard-cli](../../../cli)
+- [clipboard-cli][0]
   - A fork of the original clipboard-clip which is used for distribution.
 - [homebrew-clipboard-cli][1]
   - A repo for publishing clipboard-cli to homebrew.
@@ -56,7 +56,20 @@ A collection of APIs/microservices to be hosted on a server.
 - [TPolls][12]
   - For managing polls.
 
-[0]: https://github.com/4lch4/clipboard-cli
+[0]: ../../../clipboard-cli
+[1]: ../../../homebrew-clipboard-cli
+[2]: ../../../PassGen
+[3]: ../../../Sebastian
+[4]: ../../../SQ-Aid
+[5]: ../../../4lch4.com
+[6]: ../../../cheatsheets
+[7]: ../../../logger
+[8]: ../../../NPM-Module-Template
+[9]: ../../../TypeScript-Module-Template
+[10]: ../../../Ansel
+[11]: ../../../Metanoia
+[12]: ../../../TPolls
+<!-- [0]: https://github.com/4lch4/clipboard-cli
 [1]: https://github.com/4lch4/homebrew-clipboard-cli
 [2]: https://github.com/4lch4/PassGen
 [3]: https://github.com/4lch4/Sebastian
@@ -68,4 +81,4 @@ A collection of APIs/microservices to be hosted on a server.
 [9]: https://github.com/4lch4/TypeScript-Module-Template
 [10]: https://github.com/4lch4/Ansel
 [11]: https://github.com/4lch4/Metanoia
-[12]: https://github.com/4lch4/TPolls
+[12]: https://github.com/4lch4/TPolls -->
