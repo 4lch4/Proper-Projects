@@ -4,21 +4,6 @@ This project/repo is a collection of projects I've created that could be conside
 
 At the time of writing, the way I intend to organize these are as git submodules.
 
-## CLI Apps
-
-Apps that are meant to be run from a CLI.
-
-- [clipboard-cli][0]
-  - A fork of the original clipboard-clip which is used for distribution.
-- [homebrew-clipboard-cli][1]
-  - A repo for publishing clipboard-cli to homebrew.
-- [PassGen][2]
-  - A CLI utility for generating random password phrases.
-- [Sebastian][3]
-  - My timekeeping assistant.
-- [SQ-Aid][4]
-  - A CLI utility for interacting with the SonarQube API.
-
 ## Front End
 
 These are the various websites I've created.
@@ -33,7 +18,7 @@ These are the various websites I've created.
 A collection of libraries that are written to be used by other modules.
 
 - [@4lch4/logger][7]
-  - A light logger utility for logging to stdout or disk.
+  - An extension of the Winston logger using my own preferences.
 
 ## Templates
 
